@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CabiSync | Cab dispatch system</title>
+    <title>Cab dispatch system - CabiSync</title>
     <meta name="description" content="CabiSync helps small taxi operators thrive with smart technology. Based in Doncaster, UK, we streamline operations, boost driver performance, and promote sustainability. Join us in shaping the future of transport.">
     <meta name="keywords" content="cab dispatch system, taxi dispatch system, cab management system, taxi management system, cab dispatch software, taxi dispatch software, cab management software, taxi management software">
     <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
