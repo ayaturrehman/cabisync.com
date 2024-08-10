@@ -311,9 +311,9 @@
       <div class="row">
         <div class="col-lg-5">
           <div class="zubuz-v2-thumb thumb-mr">
-            <img src="assets/images/v2/solution.jpg" alt="Drive Success with Smart Solutions - CabiSync">
+            <img src="assets/images/v2/solution.jpg" alt="">
             <div class="zubuz-v2-thumb-shape">
-              <img src="assets/images/v2/shape3-v2.png" alt="">
+              <img src="assets/images/v2/shape3-v2" alt="">
             </div>
           </div>
         </div>
@@ -345,7 +345,7 @@
       <div class="row">
         <div class="col-lg-5 order-lg-2">
           <div class="zubuz-v2-thumb thumb-ml">
-            <img src="assets/images/v2/Taxi+Operations.jpg" alt="">
+            <img src="assets/images/v2/benefits.jpg" alt="">
           </div>
         </div>
         <div class="col-lg-7">
