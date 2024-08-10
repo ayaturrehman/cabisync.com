@@ -40,6 +40,7 @@
 
 
 
+  <p class="p-2 text-center">Our website is currently undergoing maintenance. We apologize for the inconvenience and appreciate your patience. If you need to contact me urgently, please reach out via my <a href="https://www.linkedin.com/in/ayaturrehman/" target="_blank">LinkedIn profile</a>.</p>
 
   <header class="site-header zubuz-header-section" id="sticky-menu">
     <div class="container">
