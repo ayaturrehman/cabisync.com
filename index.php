@@ -23,7 +23,7 @@
 
   <!-- Code Editor  -->
 
-  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/main.css?2">
   <link rel="stylesheet" href="assets/css/app.min.css">
 </head>
 
