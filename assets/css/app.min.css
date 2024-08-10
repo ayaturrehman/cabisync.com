@@ -2016,7 +2016,8 @@ header.zubuz-header-section {
     position: fixed;
     z-index: 9;
     width: 100%;
-    top: 0;
+    /* top: 0; */
+    top: 40px;
     padding: 15px 0;
     transition: all .4s
 }
