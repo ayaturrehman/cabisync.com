@@ -402,7 +402,7 @@
               <p class="dynamic-value" data-active="GBP/Billed monthly" data-monthly="GBP/Billed monthly" data-yearly="GBP/Billed Yearly"></p>
             </div>
             <div class="zubuz-pricing-description">
-              <p>Works perfect for small teams</p>
+              <p>Works perfect for small/startup company</p>
             </div>
             <div class="zubuz-pricing-body">
               <ul>
@@ -427,7 +427,7 @@
               <p class="dynamic-value" data-active="GBP/Billed monthly" data-monthly="GBP/Billed monthly" data-yearly="GBP/Billed Yearly"></p>
             </div>
             <div class="zubuz-pricing-description">
-              <p>Great for small and medium teams</p>
+              <p>Great for small and medium company</p>
             </div>
             <div class="zubuz-pricing-body">
               <ul>
@@ -452,7 +452,7 @@
               <p class="dynamic-value" data-active="GBP/Billed monthly" data-monthly="GBP/Billed monthly" data-yearly="GBP/Billed Yearly"></p>
             </div>
             <div class="zubuz-pricing-description">
-              <p>Great for large teams</p>
+              <p>Great for large company</p>
             </div>
             <div class="zubuz-pricing-body">
               <ul>
