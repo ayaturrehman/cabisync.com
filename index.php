@@ -23,8 +23,8 @@
 
   <!-- Code Editor  -->
 
-  <link rel="stylesheet" href="assets/css/main.css?2">
-  <link rel="stylesheet" href="assets/css/app.min.css">
+  <link rel="stylesheet" href="assets/css/main.css?v=2132">
+  <link rel="stylesheet" href="assets/css/app.min.css?v=2132">
 </head>
 
 <body class="light">
